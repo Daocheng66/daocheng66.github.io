@@ -141,9 +141,9 @@ address span{
 	font-size:0.9em;
 }
 .company_details p,.skill_info p,.education_details p{
-	color:#999;
-	font-weight:300;
-	line-height:1.7em;
+	color: #333;
+	font-weight: 300;
+	line-height: 1.7em;
 }
 .cmpny1{
 	border-bottom:3px dashed #999;

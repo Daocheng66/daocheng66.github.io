@@ -6,7 +6,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 */
 h4, h5, h6,
 h1, h2, h3 {margin: 0;}
-ul, ol {margin: 0; padding:0;}
+ul, ol {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: 30px;
+}
 p {margin: 0;}
 html, body{
 	font-family: 'Ubuntu', sans-serif;
@@ -120,7 +127,9 @@ address span{
   display: inline-block;
 }
 .company_details,.education_details {
-	padding:1.5em 0 0em 2em;
+	padding: 1.5em 0 0em 2em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
 }
 .company_details h4,.education_details h4{
 	color: #999999;
